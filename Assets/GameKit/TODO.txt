@@ -1,0 +1,10 @@
+Editor creation of the following:
+- Slider
+
+Scroll View (Enhancement)
+- 1 scroll view in a whole screen only
+- swiping gesture for the whole screen
+- collider detector for click input
+- try font mask and not rely on collider/rigidbody trigger detection
+
+- Add Documentation using Readme.md
