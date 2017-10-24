@@ -2,7 +2,7 @@
 ### Replacement for Unity Canvas
 
 It has all necessary elements for creating basic UI.
-- Image (has collider and sliced)
+- Image (has collider and 9-slice)
 - Image Button
 - Text
 - Text Button
